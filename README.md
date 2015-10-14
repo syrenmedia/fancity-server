@@ -1,2 +1,2 @@
-# fandom-server
-Server-side codebase for Fandom app
+# fandive-server
+Server-side codebase for Fandive app
